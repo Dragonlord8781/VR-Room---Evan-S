@@ -1,0 +1,36 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.1.206520482)
+
+newmtl Handle.002
+kd 0.226581 0.041801 0.025443
+ka 0.566929 0.566929 0.566929
+ks 0.5 0.5 0.5
+ke 0 0 0
+d 1
+Ns 900
+illum 2
+bump Rathalos_Normal.exr
+map_bump Rathalos_Normal.exr
+
+newmtl Rathalos.001
+kd 0.8 0.023071 0.002373
+ka 1 1 1
+ks 0.913636 0.913636 0.913636
+ke 0 0 0
+d 1
+Ns 1000.86
+illum 2
+bump Rathalos_Normal.exr
+map_bump Rathalos_Normal.exr
+
+newmtl Spike.001
+kd 0.06372 0.016049 0.010224
+ka 1 1 1
+ks 1 1 1
+ke 0 0 0
+d 1
+Ns 1109.36
+illum 2
+bump Rathalos_Normal.exr
+map_bump Rathalos_Normal.exr
+
